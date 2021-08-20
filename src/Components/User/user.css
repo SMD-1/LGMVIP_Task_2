@@ -3,7 +3,8 @@
   grid-auto-rows: minmax(100px, auto);
   padding: 20px;
   border-radius: 15px;
-  border: 1px solid #000;
+  box-shadow: 5px 5px 5px rgb(182 181 181 / 20%),
+    inset 5px 5px 5px rgb(216 240 255 / 51%);
 }
 .image {
   width: 150px;
