@@ -1,0 +1,22 @@
+.user {
+  display: grid;
+  grid-auto-rows: minmax(100px, auto);
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px solid #000;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+.image img {
+  border-radius: 50%;
+}
+.details {
+  text-align: center;
+}
+h4 {
+  margin-bottom: 10px;
+}
